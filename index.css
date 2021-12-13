@@ -233,7 +233,7 @@ h3 {
     
     #Navigation {
         text-align: left;
-        font-size: 8pt;                             /*funktioniert nicht*/
+        font-size: 15pt;                             /*funktioniert nicht*/
         padding-left: 0px;
             
     }
@@ -242,7 +242,7 @@ h3 {
         display:block;
         padding-left: 40px;
         text-align: left;
-        font-size: 8pt;
+        font-size: 15pt;
         line-height: 250%;                          /*Zeilenabstand vergrößern*/
         }
     
@@ -258,10 +258,12 @@ h3 {
 
     #Piktogramme {
         Width: 100%;
+        height:50%;
         }
     
     #Biedermann {
         Width: 100%;
+        height:50%;
     }
     
     #Businesscards {
